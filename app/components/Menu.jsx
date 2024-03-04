@@ -7,6 +7,7 @@ const Menu = () => {
             <div class="space-x-4">
                 <a href="./home" class="text-white hover:text-gray-300">Home</a>
                 <a href="./acerca" class="text-white hover:text-gray-300">Acerca de</a>
+                <a href="./contador" class="text-white hover:text-gray-300">Contador</a>
             </div>
             </div>
         </nav>
